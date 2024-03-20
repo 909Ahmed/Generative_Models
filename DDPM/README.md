@@ -1,4 +1,4 @@
-# ** Denoising Diffusion Probabilistic Model (DDPM) **
+# **Denoising Diffusion Probabilistic Model (DDPM)**
 ### This project implements a basic version of the Denoising Diffusion Probabilistic Model (DDPM) trained on the MNIST dataset.The core of the DDPM framework lies in its use of a Markov chain process to denoise/noisify the images.
 
 ## Installation
